@@ -1,0 +1,12 @@
+{
+  "name": "primeira-aula",
+  "version": "1.0.0",
+  "description": "treinando nodejs",
+  "main": "index.js",
+  "scripts": {
+    "principal":"node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Aguiar",
+  "license": "ISC"
+}
